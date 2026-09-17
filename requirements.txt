@@ -1,0 +1,10 @@
+customtkinter
+pymysql
+cryptography
+Pillow
+tkcalendar
+reportlab
+openpyxl
+bcrypt
+qrcode
+matplotlib
